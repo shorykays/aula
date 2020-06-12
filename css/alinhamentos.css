@@ -1,0 +1,11 @@
+body{
+width: 100%;
+height: 100%;
+  background: #fff;
+}
+.center4 {
+   width: 40%;
+   background: #fff;
+   margin: 0 auto;
+text-align:center;
+}
