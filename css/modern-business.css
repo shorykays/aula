@@ -5,6 +5,7 @@
  */
 body {
   padding-top: 56px;
+  background-color: darkgray;
 }
 
 .carousel-item {
@@ -21,3 +22,6 @@ body {
   margin-bottom: 30px;
 }
 
+.sombra{
+  text-shadow: 0.1em 0.1em 0.2em black;
+}
