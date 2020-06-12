@@ -1,5 +1,5 @@
 
-<h1>Aula para editar um site de filmes nos baseando em uma html disponibilizada no Slack:</h1>
+<h1>Aula para editar em turma de três pessoas um site de filmes, nos baseando em uma html disponibilizada no Slack:</h1>
 
 <h5>https://github.com/Lajuro/atividade_framework   /   https://lajuro.github.io/atividade_framework/index.html</h5>
 
