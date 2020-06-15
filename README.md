@@ -4,7 +4,7 @@
 <h5>https://github.com/Lajuro/atividade_framework   /   https://lajuro.github.io/atividade_framework/index.html</h5>
 
 
-Copyright (c) <a class="logo-1" href="https://www.github.com/shorykays">Torukia</a>
+Copyright (c) <a class="logo-1" href="https://www.github.com/shorykays">Gabriel Piucci</a>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
